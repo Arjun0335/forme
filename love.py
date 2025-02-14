@@ -59,5 +59,5 @@ else:
 # Footer with a personal message
 st.markdown("""
     <hr>
-    <h4 style="text-align:center;">With all my love, Arjun 💖</h4>
+    <h4 style="text-align:center;">With all my love, Aru 💖</h4>
 """, unsafe_allow_html=True)
